@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ymanol Martinez Castillo
 <!-- - 👋 Hi, I’m @YmanolCastillo -->
-- 👀 I’m interested in Software Development Aritficial Intelligence, Robotic, and many more
+- 👀 I’m interested in Software Development, Artificial Intelligence, Robotic, and many more
 <!-- - 🌱 I’m currently learning Videogame Development and VR/AR -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me...
